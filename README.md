@@ -1,5 +1,5 @@
 # Salary-Estimator-in-HRMS-Payroll-Module-Using-ML-and-Power-BI-Dashboard-Creation
-Developed a Salary Estimation Module in HRMS, utilizing Machine Learning Algorithms and Power BI dashboards to analyse salary trends, identify key factors, and deliver actionable insights
+Developed a Salary Estimation Module in HRMS, utilizing Machine Learning Algorithms and Power BI dashboards to analyse salary trends, identify key factors, and deliver actionable insights.
 
  **Models insights:**  
  **Random Forest** provides robust predictions by aggregating decision trees, accommodating non-linear relationships for accurate salary estimation.  
