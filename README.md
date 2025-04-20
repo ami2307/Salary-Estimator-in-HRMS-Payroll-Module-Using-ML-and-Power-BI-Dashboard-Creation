@@ -26,7 +26,7 @@ This insight can help in understanding what factors are crucial in determining a
 
 8. **Interactive Exploration:** Provide users with the ability to interactively explore the data through filters and slicers in the Power BI Dashboard.
 
-9.** Recommendations:** Provide actionable recommendations based on the insights gained from the analysis.  
+9.Recommendations: Provide actionable recommendations based on the insights gained from the analysis.  
 
-**Dashboard Creation: ** 
+Dashboard Creation: 
  Develop an interactive dashboard to visualize key Salary Estimators and to gain insights derived from the analysis. 
