@@ -8,13 +8,13 @@ Developed a Salary Estimation Module in HRMS, utilizing Machine Learning Algorit
 
   **Lasso Regression's** regularization aids in feature selection, enhancing interpretability, especially valuable for high-dimensional datasets.  
 
-**Outline:  **
+Outline:  
 1. **Feature Importance: ** 
 This insight can help in understanding what factors are crucial in determining an individual's salary, such as years of experience, education level, specific skills, etc.
 
 2. **Salary Distribution:** Gain insights into the distribution of salaries across different segments.
    
-3.** Model Performance Comparison: **This insight can help in determining which model performs best under various circumstances and which factors contribute to its performance. 
+3. Model Performance Comparison: This insight can help in determining which model performs best under various circumstances and which factors contribute to its performance. 
 
 4. **Trends and Patterns:** This could include understanding how salaries vary over time, geographic locations, or industries.
 
